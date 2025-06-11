@@ -1,0 +1,14 @@
+#head{
+    background-color: aqua;
+    color: blueviolet;
+    border: 2px solid black;
+}
+#outer{
+    height: 10px;
+    border: 1px solid black;
+}
+#inner{
+    background-color: green;
+    height: 100%;
+    width: 0%;
+}
